@@ -1,0 +1,17 @@
+Hi! This is Omar. This about.txt is basic information about Facto-Zacto Fact Guessing Game.
+
+-- Credits and Developer Information --
+Creator: Toyotopia DS
+Lead Developer: Muhammad Omar
+Questions extracted from: Google
+
+-- Program Information --
+Program: Python
+Created with: Python
+Python Version: 3.10.5 (or newer)
+GUI: None
+
+-- System Information --
+Recommended System Requirements: Intel® Core™ i5 processor 4300M at 2.60 GHz, 4 to 8 GB RAM, 2 to 3 GB disk space, Windows® 10, macOS or Linux.
+
+Minimum System Requirements: Intel Atom® processor, 2 GB RAM, 1 GB disk space, Windows 7 or later, macOS, or Linux.
